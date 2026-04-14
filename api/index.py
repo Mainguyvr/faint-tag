@@ -169,7 +169,7 @@ def skibidi():
 
 @app.route('/api/TitleData', methods=['POST'])
 def titled_data():
-    return jsonify({"MOTD": "<color=ORANGE>WELCOME TO Molly Tag</color>\n\n<color=red>UPDATE: XMAS 2024, HAVE AN UPDATE THAT YOU WANT? REQUEST IT IN THE DISCORD!</color>\n\n<color=green>DISCORD: https://discord.gg/FtgqHVmHNZ</color>\n\n<color=orange>MAIN OWNERS: I4j9</color>"})
+    return jsonify({"MOTD": "<color=purple>WELCOME TO Faint Tag</color>\n\n<color=red>UPDATE: Hall 2024, HAVE AN UPDATE THAT YOU WANT? REQUEST IT IN THE DISCORD!</color>\n\n<color=blue>DISCORD: https://discord.gg/wFHrM6ty</color>\n\n<color=orange>MAIN Founders: I4j9 DEMI</color>"})
 
     if req.status_code == 200:
         return jsonify(req.json().get("data").get("Data"))
