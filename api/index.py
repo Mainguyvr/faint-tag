@@ -70,7 +70,7 @@ def titledata():
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
         "LatestTOSVersion": "2024.09.20",
-        "MOTD": (
+        "MY CUTE FEMBOY ZEN": (
     
             "<color=#bb29ff>[ WELCOME TO VOLTAGE TAGGERS ]</color>\n"
             "<color=#07dde8>HALL 24!</color>\n"
